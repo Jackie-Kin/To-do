@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="62df9cebc31dd2102adc1b477d013197" label="To Do" max_length="40" name="x_1553766_to_do_to_do" type="collection">
         <element label="Due date" max_length="40" name="due_date" type="glide_date"/>
+        <element label="Type" max_length="32" name="type" reference="x_1553766_sugges_0_suggestion_type" type="reference"/>
         <element choice="3" default="important" label="Importance" max_length="40" name="importance" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Important" sequence="1" value="Important"/>
@@ -25,6 +26,9 @@
         </index>
         <index name="index2">
             <element name="project"/>
+        </index>
+        <index name="index3">
+            <element name="type"/>
         </index>
     </element>
 </database>
