@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="to-do-workspace Search Profile">04057df112291210e09df48cbfdc123b</profile>
+        <search_source display_value="To Do">dd05bdf1c32912102adc1b477d0131f9</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 09:13:40</sys_created_on>
+        <sys_id>d905bdf1c32912102adc1b477d0131fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>to-do-workspace Search Profile.To Do</sys_name>
+        <sys_package display_value="To Do" source="x_1553766_to_do">90ced4abc31dd2102adc1b477d013151</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">90ced4abc31dd2102adc1b477d013151</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_d905bdf1c32912102adc1b477d0131fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 09:13:40</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>
