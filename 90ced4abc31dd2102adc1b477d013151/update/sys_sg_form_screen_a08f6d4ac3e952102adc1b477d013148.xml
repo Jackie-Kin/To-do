@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Compass">2c8f6d4ac3e952102adc1b477d013145</icon>
+        <item_view/>
+        <name>Open Suggestion Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 03:28:03</sys_created_on>
+        <sys_id>a08f6d4ac3e952102adc1b477d013148</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Suggestion Form Screen</sys_name>
+        <sys_package display_value="To Do" source="x_1553766_to_do">90ced4abc31dd2102adc1b477d013151</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">90ced4abc31dd2102adc1b477d013151</sys_scope>
+        <sys_update_name>sys_sg_form_screen_a08f6d4ac3e952102adc1b477d013148</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 03:28:03</sys_updated_on>
+        <table>x_1553766_sugges_0_suggestion</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Open Suggestion Detail Screen View Config">a48f6d4ac3e952102adc1b477d013109</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a08f6d4ac3e952102adc1b477d013148"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="e88f6d4ac3e952102adc1b477d013146 Item Stream">6c8f6d4ac3e952102adc1b477d01314b</item_stream>
+        <master_item display_value="Open Suggestion Form Screen Master Item">ec8f6d4ac3e952102adc1b477d01314d</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 03:28:03</sys_created_on>
+        <sys_id>248f6d4ac3e952102adc1b477d01314f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_1553766_to_do">90ced4abc31dd2102adc1b477d013151</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">90ced4abc31dd2102adc1b477d013151</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_248f6d4ac3e952102adc1b477d01314f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 03:28:03</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

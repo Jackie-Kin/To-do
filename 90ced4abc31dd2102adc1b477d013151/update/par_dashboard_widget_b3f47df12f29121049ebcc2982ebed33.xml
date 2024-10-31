@@ -2,7 +2,7 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">fbf47df1ea2912109382613ed80b1133</canvas>
         <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
-        <component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":""}</component_props>
+        <component_props>{"variant":"header-primary","label":"To do counts","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":true,"id":"label","value":"To do counts","propLabel":"Label"}</component_props>
         <h>3</h>
         <name/>
         <stored_component/>
@@ -12,7 +12,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b3f47df12f29121049ebcc2982ebed33</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="To Do" source="x_1553766_to_do">90ced4abc31dd2102adc1b477d013151</sys_package>
@@ -20,7 +20,7 @@
         <sys_scope display_value="To Do">90ced4abc31dd2102adc1b477d013151</sys_scope>
         <sys_update_name>par_dashboard_widget_b3f47df12f29121049ebcc2982ebed33</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-30 09:13:35</sys_updated_on>
+        <sys_updated_on>2024-10-30 13:41:16</sys_updated_on>
         <visualization/>
         <w>47</w>
         <widget_props/>
